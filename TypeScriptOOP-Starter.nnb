@@ -1727,7 +1727,7 @@
         {
             "language": "typescript",
             "source": [
-                ""
+                "console.log(Aurthor)"
             ],
             "outputs": []
         },
