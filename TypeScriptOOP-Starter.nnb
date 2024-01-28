@@ -1727,13 +1727,6 @@
         {
             "language": "typescript",
             "source": [
-                "console.log(Aurthor)"
-            ],
-            "outputs": []
-        },
-        {
-            "language": "typescript",
-            "source": [
                 ""
             ],
             "outputs": []
